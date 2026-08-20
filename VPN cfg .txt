@@ -1,5 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:443#%F0%9F%87%B3%F0%9F%87%B1%20%5BNLНидерланды
-vless://d23cb516-40db-4aa4-8142-6b45ff882f90@pl4.lckdwn.ru:8443?type=tcp&security=reality&sni=www.cloudflare.com&pbk=Wcbu-RQtOWYlsoZg3PIaxVqFMnEYLdkO9iRr6cHBBAQ&sid=4258&fp=qq&spx=%2Ftyrl80hchwrzixp&encryption=none#🇵🇱 Польша⚡
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:443#🐌🇳🇱Нидерланды
+vless://d23cb516-40db-4aa4-8142-6b45ff882f90@pl4.lckdwn.ru:8443?type=tcp&security=reality&sni=www.cloudflare.com&pbk=Wcbu-RQtOWYlsoZg3PIaxVqFMnEYLdkO9iRr6cHBBAQ&sid=4258&fp=qq&spx=%2Ftyrl80hchwrzixp&encryption=none#🇵🇱 Польша
 trojan://EQ30679154@normal-cow.rooster465.autos:443?type=tcp&security=tls#🇩🇪Германия
-trojan://FH72359861@13.37.222.178:443?security=tls&sni=correct-pony.rooster465.autos&path=/#🇫🇷Франция
-vless://1078d418-b4e0-4668-9018-dc90c2042d61@162.251.82.131:443?encryption=none&type=ws&path=%2F&security=tls&sni=workspace.evan00.dpdns.org#🇺🇸США
+trojan://FH72359861@13.37.222.178:443?security=tls&sni=correct-pony.rooster465.autos&path=/#🇫🇷⚡Франция
+vless://1078d418-b4e0-4668-9018-dc90c2042d61@162.251.82.131:443?encryption=none&type=ws&path=%2F&security=tls&sni=workspace.evan00.dpdns.org#🇺🇸⚡США
