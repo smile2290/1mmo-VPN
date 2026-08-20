@@ -1,6 +1,6 @@
 #profile-title: base64:SW1tbyB8IFZQTg==
 #subscription-userinfo: upload=0; download=0; total=1435592818688; expire=0
-#announce: Привет это Immo VPN. пока что он только зародился,но уже работает! Спасибо что выбрали нас. Удачи в использовании!♥️ credit:MightyDanya
+#announce: Привет это Immo VPN. пока что он только зародился,но уже работает! Спасибо что выбрали нас. Удачи в использовании!♥️ 
 #announce: ⚡- Быстрый сервер. 🐌-Медленный/скоро замена.
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:443#🇳🇱 Нидерланды🐌
