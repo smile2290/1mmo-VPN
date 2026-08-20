@@ -1,7 +1,7 @@
 #profile-title: base64:SW1tbyB8IFZQTg==
 #subscription-userinfo: upload=0; download=0; total=1435592818688; expire=0
 #announce: Привет это Immo VPN. пока что он только зародился,но уже работает! Спасибо что выбрали нас. Удачи в использовании!♥️
-
+⚡- Быстрый сервер. 🐌-Медленный/скоро замена.
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:443#🇳🇱 Нидерланды🐌
 vless://d23cb516-40db-4aa4-8142-6b45ff882f90@pl4.lckdwn.ru:8443?type=tcp&security=reality&sni=www.cloudflare.com&pbk=Wcbu-RQtOWYlsoZg3PIaxVqFMnEYLdkO9iRr6cHBBAQ&sid=4258&fp=qq&spx=%2Ftyrl80hchwrzixp&encryption=none#🇵🇱 Польша🐌
