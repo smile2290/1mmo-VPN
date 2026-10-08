@@ -2,8 +2,7 @@
 #subscription-userinfo: upload=0; download=0; total=1435592818688; expire=0
 #announce: Привет это Immo VPN. пока что он только зародился,но уже работает! Спасибо что выбрали нас. Удачи в использовании!♥️ ⚡- Быстрый сервер. 🐌-Медленный/скоро замена.
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:443#🇳🇱 Нидерланды🐌
-vless://d23cb516-40db-4aa4-8142-6b45ff882f90@pl4.lckdwn.ru:8443?type=tcp&security=reality&sni=www.cloudflare.com&pbk=Wcbu-RQtOWYlsoZg3PIaxVqFMnEYLdkO9iRr6cHBBAQ&sid=4258&fp=qq&spx=%2Ftyrl80hchwrzixp&encryption=none#🇵🇱 Польша🐌
-trojan://EQ30679154@normal-cow.rooster465.autos:443?type=tcp&security=tls#🇩🇪 Германия
-trojan://FH72359861@13.37.222.178:443?security=tls&sni=correct-pony.rooster465.autos&path=/#🇫🇷 Франция⚡
-vless://1078d418-b4e0-4668-9018-dc90c2042d61@162.251.82.131:443?encryption=none&type=ws&path=%2F&security=tls&sni=workspace.evan00.dpdns.org#🇺🇸 США⚡
+ss://YWVzLTI1Ni1nY206NDkzOGU5NzU3MjRkMGVkMQ@194.87.196.13:50660#Россия
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@54.169.240.70:8443#Сингапур
+vless://6bda1096-457f-4c70-9698-65eb5eee163b@167.233.96.254:1280#Германия
+vless://59ba16fb-d83e-4a1a-9c7c-6c2764a98284@167.82.76.31:443#США
